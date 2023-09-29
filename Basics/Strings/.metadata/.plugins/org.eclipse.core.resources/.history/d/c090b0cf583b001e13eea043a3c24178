@@ -1,0 +1,10 @@
+package Trail;
+
+public class CompareToIgnoreCase {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

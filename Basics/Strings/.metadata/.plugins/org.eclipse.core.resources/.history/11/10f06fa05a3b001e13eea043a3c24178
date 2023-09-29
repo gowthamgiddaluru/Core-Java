@@ -1,0 +1,12 @@
+package Trail;
+
+public class ContentEquals {
+
+	public static void main(String[] args) {
+		String s1 = "Hello";
+		System.out.println(s1.contentEquals("Hello"));//true
+		System.out.println(s1.contentEquals("Hel"));//true
+		System.out.println(s1.contentEquals("He"));//true
+	}
+
+}
